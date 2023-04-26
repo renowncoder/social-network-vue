@@ -17,11 +17,6 @@ To test the project you need to have [NodeJS](https://nodejs.org/en/) installed.
 
 
 
-## Audit questions
-https://github.com/01-edu/public/tree/master/subjects/social-network/audit
-
-
-
 ## Stack
 Frontend
 - Vue
@@ -33,9 +28,9 @@ Backend
 
 ## Authors
 Backend team
-- Laura
-- Zane
+- Laura-Eliise Marrandi
+- Zane Krumina
 
 Frontend team
-- Kris
-- Vic
+- Kristofer Kangro
+- Viktor Ahlberk
