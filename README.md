@@ -1,5 +1,5 @@
 ## Project description
-Facebook-like social network that will contain the following features:
+Facebook-like social network that contains the following features:
 - Followers
 - Profile
 - Posts
