@@ -18,6 +18,8 @@ To test the project you need to have [NodeJS](https://nodejs.org/en/) installed.
 
 
 ## Stack
+I created the design of the website with Figma before translating it into HTML and CSS.
+
 Frontend
 - Vue
 - HTML & CSS
