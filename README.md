@@ -1,10 +1,10 @@
 ## Project description
 Facebook-like social network that contains the following features:
 - Followers
-- Profile
+- Profiles
 - Posts
 - Groups
-- Notification
+- Notifications
 - Chats
 
 ## Run the project
