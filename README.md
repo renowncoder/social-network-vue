@@ -1,5 +1,6 @@
 ## Project description
-Facebook-like social network that contains the following features:
+This project was a part of my schools JavaScript course. We used Gitea there so therefore unfortunately I couldnt keep the commit history.
+It is a facebook-like social network that contains the following features:
 - Followers
 - Profiles
 - Posts
