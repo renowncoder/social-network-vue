@@ -1,12 +1,14 @@
 ## Project description
-This project was a part of my schools JavaScript course. We used Gitea there so therefore unfortunately I couldnt keep the commit history.
-It is a facebook-like social network that contains the following features:
+This project was a part of my schools JavaScript course.
+Me and my school colleagues made a facebook-like social network that contains the following features:
 - Followers
 - Profiles
 - Posts
 - Groups
 - Notifications
 - Chats
+- 
+Since we used Gitea in school, I couldnt keep the commit history.
 
 ## Run the project
 To test the project you need to have [NodeJS](https://nodejs.org/en/) installed.
@@ -19,11 +21,12 @@ To test the project you need to have [NodeJS](https://nodejs.org/en/) installed.
 
 
 ## Stack
-I created the design of the website with Figma before translating it into HTML and CSS.
+I created the whole design of the project. I started by creating the design in Figma and then translating that into code. I worked solo on Notifications and Chats. Rest of the stuff we did together with my front-end partner Vic.
 
 Frontend
 - Vue
 - HTML & CSS
+- Figma
 
 Backend
 - Go
